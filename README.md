@@ -1,4 +1,4 @@
-### hhh
+### Salary Prediction
 ### Software and Tools Required
 
 1. [GitHub Account](https://github.com)
@@ -6,4 +6,4 @@
 3. [VS Code IDE](https://code.visualstudio.com/)
 4. [GitCLI](https://gitforwindows.org/)
 
-Create a new Environment
+
